@@ -1,7 +1,9 @@
-This is feature1.
+feature1:
 
-This is function1.
+function1()
 
-This is function2.
+function2()
 
-This is function3.
+function3()
+
+function4()
