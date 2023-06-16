@@ -1,1 +1,3 @@
-this is feature4. this is fix 1. this is fix 2.
+function1()
+    fix1
+    fix2
