@@ -1,3 +1,5 @@
 This is feature6.
 
-this is function1.
+This is function1.
+
+This is function2.
